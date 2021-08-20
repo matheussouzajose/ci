@@ -1,1 +1,0 @@
-Integração contínua ou CI
